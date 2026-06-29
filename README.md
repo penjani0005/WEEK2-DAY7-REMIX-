@@ -10,5 +10,6 @@ C++ Arrays Bootcamp - Day 7 Remix Challenges
 
 ### **How to Run**
 ```bash
-g++ main.cpp -o remix
+g**Status:** C++ main.cpp -o remix
 ./remix
+**Status:** Bootcamp Day 7 Complete | Learning in public
