@@ -9,7 +9,10 @@ C++ Arrays Bootcamp - Day 7 Remix Challenges
 3.  **SearchArray:** Linear search for a target value
 
 ### **How to Run**
+
 ```bash
-g**Status:** g++ main.cpp -o remix
+g++ main.cpp -o remix
 ./remix
-**Status:** Bootcamp Day 7 Complete | Learning in public
+```
+
+ **Status:** Bootcamp Day 7 Complete | Learning in public
